@@ -1,0 +1,18 @@
+---
+title: "Case Study #1: Health Expenditures"
+output: html_notebook
+---
+
+## Overview
+
+Health policy in the United States of America is complicated, and several forms of healthcare coverage exist, including that of federal government-led healthcare programs and that of private insurance companies. We are interested in getting a sense of the health expenditure, including healthcare coverage and healthcare spending, across the United States. More specifically, the questions are:
+
+- Is there a relationship between healthcare coverage and healthcare spending in the United States?
+- How does the spending distribution change across geographic regions in the United States?
+- Does the relationship between healthcare coverage and healthcare spending in the United States change from 2013 to 2014?
+
+### Data: Healthcare
+
+- The two datasets used in this case study come from the Henry J Kaiser Family Foundation (KFF) and include:
+- Health Insurance Coverage of the Total Population - Includes years 2013-2016
+- Health Care Expenditures by State of Residence (in millions) - Includes years 1991-2014
